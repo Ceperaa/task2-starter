@@ -1,4 +1,5 @@
 print:
   message:
+    text: starter started
     enabled: true
 
