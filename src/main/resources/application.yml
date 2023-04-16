@@ -1,0 +1,4 @@
+print:
+  message:
+    enabled: true
+
