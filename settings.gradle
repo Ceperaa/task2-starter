@@ -1,2 +1,5 @@
 rootProject.name = 'task2-starter'
 include 'messages-writer'
+include 'service-server'
+include 'service-client-soap'
+
